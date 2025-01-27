@@ -1,18 +1,15 @@
----
-
-<Br>
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="150">
-</div>
-<br>  
 
 ---
 
 📈 Calculadora de Juros Compostos
 
+
 <div align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="120">  
+
+
   <h3>Uma aplicação Flutter para calcular juros compostos de forma simples e elegante!</h3>  
+
   <p>  
     <strong>Com suporte a modo claro e escuro, design responsivo e cálculos detalhados.</strong>  
   </p>  
@@ -21,9 +18,12 @@
 
 🌟 Funcionalidades
 
+
 🌙 Alternância entre Modo Claro e Modo Escuro
 
+
 📊 Cálculos detalhados:
+
 
 Capital Investido
 
@@ -44,9 +44,13 @@ Montante Final
 
 💡 Modo Claro
 
-<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">  🌙 Modo Escuro
+<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">  
 
-<img src="https://via.placeholder.com/600x400?text=Modo+Escuro" alt="Modo Escuro" width="600">  > Substitua as imagens acima pelos screenshots reais do aplicativo.
+🌙 Modo Escuro
+
+<img src="https://via.placeholder.com/600x400?text=Modo+Escuro" alt="Modo Escuro" width="600">  >
+
+Substitua as imagens acima pelos screenshots reais do aplicativo.
 
 
 
@@ -54,6 +58,7 @@ Montante Final
 ---
 
 🔧 Tecnologias Utilizadas
+
 
 <div align="center">  
   <table>  
@@ -72,7 +77,10 @@ Montante Final
       </td>  
     </tr>  
   </table>  
-</div>  Flutter: Framework para desenvolvimento multiplataforma.
+</div>  
+
+
+Flutter: Framework para desenvolvimento multiplataforma.
 
 Dart: Linguagem de programação moderna e eficiente.
 
@@ -95,7 +103,9 @@ Pré-requisitos
 
 Passos
 
+
 1. Clone este repositório:
+
 
 git clone https://github.com/JulioAbreuCanalDev33/meu_primeiro_app.git  
 cd meu_primeiro_app
@@ -103,10 +113,12 @@ cd meu_primeiro_app
 
 2. Instale as dependências:
 
+
 flutter pub get
 
 
 3. Execute o projeto em um emulador ou dispositivo conectado:
+
 
 flutter run
 
@@ -118,6 +130,7 @@ flutter run
 🎯 Como Usar
 
 1. Preencha os campos:
+
 
 Valor inicial de aporte (R$)
 
@@ -133,6 +146,7 @@ Tempo investido (meses)
 
 Clique no botão Calcular para visualizar:
 
+
 Capital Investido
 
 Juros Acumulados
@@ -144,6 +158,7 @@ Montante Final
 
 3. Modo Claro/Escuro:
 
+
 Alterne entre os modos usando o botão no canto inferior direito.
 
 
@@ -154,9 +169,12 @@ Alterne entre os modos usando o botão no canto inferior direito.
 
 🚀 Melhorias Futuras
 
+
 🌎 Suporte a múltiplas moedas
 
+
 📤 Exportação de resultados para PDF ou Excel
+
 
 🎨 Personalização de temas e cores pelo usuário
 
@@ -166,7 +184,9 @@ Alterne entre os modos usando o botão no canto inferior direito.
 
 🤝 Contribuições
 
+
 Contribuições são sempre bem-vindas! Para contribuir:
+
 
 1. Faça um fork do repositório.
 
@@ -195,7 +215,9 @@ git push origin minha-feature
 
 🛠️ Testes
 
+
 Para executar os testes, use o seguinte comando:
+
 
 flutter test
 
@@ -204,7 +226,9 @@ flutter test
 
 📥 Download
 
+
 Baixe a aplicação diretamente na:
+
 
 Google Play
 
@@ -220,6 +244,7 @@ App Store
 
 📜 Licença
 
+
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 
@@ -232,6 +257,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
   </p>  
 </div>  
 ---
-
-Agora seu README tem o design mais profissional e atraente! Se precisar de mais personalizações, estou aqui.
 
