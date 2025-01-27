@@ -1,11 +1,18 @@
 
 ---
 
-📈 Calculadora de Juros Compostos
+📈 
 
+CALCULADORA DE JUROS COMPOSTOS.
+
+<Br>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="120">
-</div>  Repositório: JulioAbreuCanalDev33/meu_primeiro_app
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="150">
+</div>
+<br>  
+
+Repositório: JulioAbreuCanalDev33/meu_primeiro_app
+
 
 Uma aplicação Flutter para calcular juros compostos de forma simples e elegante, com suporte a modo claro e modo escuro! 🌟
 
@@ -35,9 +42,14 @@ Montante Final
 
 🖥️ Capturas de Tela
 
+
 💡 Modo Claro
 
-<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">  🌙 Modo Escuro
+<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">  
+
+
+
+🌙 Modo Escuro
 
 <img src="https://via.placeholder.com/600x400?text=Modo+Escuro" alt="Modo Escuro" width="600">  Substitua as imagens acima pelos screenshots reais do aplicativo.
 
@@ -46,22 +58,8 @@ Montante Final
 
 🔧 Tecnologias Utilizadas
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50"><br>
-      <b>Flutter</b>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart Logo" width="50"><br>
-      <b>Dart</b>
-    </td>
-    <td align="center">
-      <img src="https://pub.dev/static/img/pub-dev-logo-2x.png" alt="Intl Logo" width="50"><br>
-      <b>Intl</b>
-    </td>
-  </tr>
-</table>  Flutter: Framework para desenvolvimento multiplataforma.
+
+Flutter: Framework para desenvolvimento multiplataforma.
 
 Dart: Linguagem de programação moderna e eficiente.
 
@@ -105,6 +103,7 @@ flutter run
 ---
 
 🎯 Como Usar
+
 
 1. Preencha os campos:
 
@@ -154,6 +153,7 @@ Utilize o botão no canto inferior direito para alternar entre os modos.
 ---
 
 🤝 Contribuições
+
 
 Contribuições são bem-vindas! Siga os passos:
 
