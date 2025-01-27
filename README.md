@@ -1,7 +1,6 @@
 
 ---
-
-#📈 Calculadora de Juros Compostos
+📈 Calculadora de Juros Compostos
 
 
 <div align="center">  
