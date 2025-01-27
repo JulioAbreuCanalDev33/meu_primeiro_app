@@ -1,7 +1,11 @@
 
+---
+
 📈 Calculadora de Juros Compostos
 
-Repositório: JulioAbreuCanalDev33/meu_primeiro_app
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="120">
+</div>  Repositório: JulioAbreuCanalDev33/meu_primeiro_app
 
 Uma aplicação Flutter para calcular juros compostos de forma simples e elegante, com suporte a modo claro e modo escuro! 🌟
 
@@ -42,10 +46,29 @@ Montante Final
 
 🔧 Tecnologias Utilizadas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50">  
-**Flutter**: Framework para desenvolvimento multiplataforma.  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart Logo" width="50">  
-**Dart**: Linguagem de programação moderna e eficiente.  <img src="https://pub.dev/static/img/pub-dev-logo-2x.png" alt="Intl Logo" width="50">  
-**Intl**: Biblioteca para formatação de números e moedas.  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50"><br>
+      <b>Flutter</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart Logo" width="50"><br>
+      <b>Dart</b>
+    </td>
+    <td align="center">
+      <img src="https://pub.dev/static/img/pub-dev-logo-2x.png" alt="Intl Logo" width="50"><br>
+      <b>Intl</b>
+    </td>
+  </tr>
+</table>  Flutter: Framework para desenvolvimento multiplataforma.
+
+Dart: Linguagem de programação moderna e eficiente.
+
+Intl: Biblioteca para formatação de números e moedas.
+
+
+
 ---
 
 📦 Como Rodar o Projeto
@@ -191,5 +214,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 
 Criado com ❤️ por Julio Abreu. 🚀
 
-Se precisar de mais personalizações ou ajuda, avise!
+Agora o README tem um toque visual mais profissional! Se quiser ajustes, me avise!
 
