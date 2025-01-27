@@ -17,13 +17,13 @@
 ---
 
 
-#🌟 Funcionalidades
+🌟 Funcionalidades
 
 
 🌙 Alternância entre Modo Claro e Modo Escuro
 
 
-#📊 Cálculos detalhados:
+📊 Cálculos detalhados:
 
 
 Capital Investido
@@ -58,7 +58,7 @@ Substitua as imagens acima pelos screenshots reais do aplicativo.
 
 ---
 
-#🔧 Tecnologias Utilizadas
+🔧 Tecnologias Utilizadas
 
 
 <div align="center">  
@@ -91,7 +91,7 @@ Intl: Biblioteca para formatação de números e moedas.
 
 ---
 
-#📦 Como Rodar o Projeto
+📦 Como Rodar o Projeto
 
 Pré-requisitos
 
@@ -257,5 +257,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
     <strong>Siga-me no <a href="https://github.com/JulioAbreuCanalDev33">GitHub</a> para mais projetos incríveis!</strong>  
   </p>  
 </div>  
+
 ---
 
