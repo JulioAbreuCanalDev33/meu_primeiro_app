@@ -1,88 +1,195 @@
+
 📈 Calculadora de Juros Compostos
 
 Repositório: JulioAbreuCanalDev33/meu_primeiro_app
+
 Uma aplicação Flutter para calcular juros compostos de forma simples e elegante, com suporte a modo claro e modo escuro! 🌟
+
+
+---
+
 🚀 Funcionalidades
 
-    🌙 Alternância entre Modo Claro e Modo Escuro
-    📊 Cálculos detalhados:
-        Capital Investido
-        Juros Acumulados
-        Montante Final
-    🎨 Design moderno e responsivo
-    💻 Fácil de usar, tanto em dispositivos móveis quanto em desktops.
+🌙 Alternância entre Modo Claro e Modo Escuro
+
+📊 Cálculos detalhados:
+
+Capital Investido
+
+Juros Acumulados
+
+Montante Final
+
+
+🎨 Design moderno e responsivo
+
+💻 Compatível com dispositivos móveis e desktops
+
+
+
+---
 
 🖥️ Capturas de Tela
-💡 Modo Claro
-<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">
-🌙 Modo Escuro
-<img src="https://via.placeholder.com/600x400?text=Modo+Escuro" alt="Modo Escuro" width="600">
 
-(Substitua as imagens acima pelos screenshots reais do aplicativo.)
+💡 Modo Claro
+
+<img src="https://via.placeholder.com/600x400?text=Modo+Claro" alt="Modo Claro" width="600">  🌙 Modo Escuro
+
+<img src="https://via.placeholder.com/600x400?text=Modo+Escuro" alt="Modo Escuro" width="600">  Substitua as imagens acima pelos screenshots reais do aplicativo.
+
+
+---
+
 🔧 Tecnologias Utilizadas
 
-    Flutter: Framework para desenvolvimento multiplataforma
-    Dart: Linguagem de programação moderna e eficiente
-    Intl: Biblioteca para formatação de números e moedas
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50">  
+**Flutter**: Framework para desenvolvimento multiplataforma.  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart Logo" width="50">  
+**Dart**: Linguagem de programação moderna e eficiente.  <img src="https://pub.dev/static/img/pub-dev-logo-2x.png" alt="Intl Logo" width="50">  
+**Intl**: Biblioteca para formatação de números e moedas.  
+---
 
 📦 Como Rodar o Projeto
+
 Pré-requisitos
 
-    Flutter SDK instalado (versão 3.0 ou superior).
-    Siga a documentação oficial do Flutter para instalar.
+1. Flutter SDK instalado (versão 3.0 ou superior).
+
+
+2. Configure o ambiente seguindo a documentação oficial do Flutter.
+
+
 
 Passos
 
-    Clone este repositório:
+1. Clone este repositório:
 
-git clone https://github.com/JulioAbreuCanalDev33/meu_primeiro_app.git
+git clone https://github.com/JulioAbreuCanalDev33/meu_primeiro_app.git  
 cd meu_primeiro_app
 
-Instale as dependências do projeto:
+
+2. Instale as dependências:
 
 flutter pub get
 
-Execute o projeto em um emulador ou dispositivo conectado:
 
-    flutter run
+3. Execute o projeto em um emulador ou dispositivo conectado:
+
+flutter run
+
+
+
+
+---
 
 🎯 Como Usar
 
-    Preencha os seguintes campos:
-        Valor inicial de aporte (R$)
-        Valor mensal de aporte (R$)
-        Taxa de juros anual (%)
-        Tempo investido (meses)
-    Clique no botão Calcular.
-    Visualize os resultados detalhados, incluindo:
-        Capital Investido
-        Juros Acumulados
-        Montante Final
-    Utilize o botão no canto inferior direito para alternar entre Modo Claro e Modo Escuro.
+1. Preencha os campos:
+
+Valor inicial de aporte (R$)
+
+Valor mensal de aporte (R$)
+
+Taxa de juros anual (%)
+
+Tempo investido (meses)
+
+
+
+2. Calcule:
+
+Clique no botão Calcular para obter:
+
+Capital Investido
+
+Juros Acumulados
+
+Montante Final
+
+
+
+
+3. Modo Claro/Escuro:
+
+Utilize o botão no canto inferior direito para alternar entre os modos.
+
+
+
+
+
+---
 
 🛠 Melhorias Futuras
 
-    🌎 Adicionar suporte a múltiplas moedas
-    📤 Exportar resultados para PDF ou Excel
-    🎨 Permitir personalização de temas e cores pelo usuário
+🌎 Suporte a múltiplas moedas
+
+📤 Exportação de resultados para PDF ou Excel
+
+🎨 Personalização de temas pelo usuário
+
+
+
+---
 
 🤝 Contribuições
 
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+Contribuições são bem-vindas! Siga os passos:
 
-    Faça um fork do repositório.
-    Crie uma branch para sua feature ou correção:
-    git checkout -b minha-feature
-    Faça os commits com suas alterações:
-    git commit -m "Descrição da alteração"
-    Envie suas alterações:
-    git push origin minha-feature
-    Abra um pull request em JulioAbreuCanalDev33/meu_primeiro_app.
+1. Faça um fork do repositório.
+
+
+2. Crie uma branch:
+
+git checkout -b minha-feature
+
+
+3. Realize os commits:
+
+git commit -m "Descrição da alteração"
+
+
+4. Envie as alterações:
+
+git push origin minha-feature
+
+
+5. Abra um pull request em JulioAbreuCanalDev33/meu_primeiro_app.
+
+
+
+
+---
+
+🛠️ Testes
+
+Para executar os testes:
+
+1. Configure o ambiente de testes:
+
+flutter test
+
+
+2. Confira os resultados no terminal.
+
+
+
+
+---
+
+📥 Download
+
+Baixe a aplicação diretamente na Google Play ou App Store (links a serem atualizados).
+
+
+---
 
 📜 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+
+---
 
 Criado com ❤️ por Julio Abreu. 🚀
 
-Se precisar de mais ajustes ou personalizações, é só avisar! 😄
+Se precisar de mais personalizações ou ajuda, avise!
+
